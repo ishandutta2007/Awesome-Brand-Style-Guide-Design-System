@@ -1,6 +1,6 @@
 # Awesome-Brand-Style-Guide-Design-System
 
-# Top Brand Style Guide & Design System Ecosystem
+## Top Brand Style Guide & Design System Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Brand Guidelines Management, Design System Documentation & Token Distribution*  
