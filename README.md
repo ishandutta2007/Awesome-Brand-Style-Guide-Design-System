@@ -8,7 +8,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Awesome List"/></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Brand-Style-Guide-Design-System/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Brand-Style-Guide-Design-System?style=flat-square&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Brand-Style-Guide-Design-System/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Brand-Style-Guide-Design-System?style=flat-square&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Brand-Style-Guide-Design-System/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Brand-Style-Guide-Design-System?style=flat-square&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Brand-Style-Guide-Design-System/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -74,57 +74,57 @@ The global Digital Asset Management (DAM) and Brand Management market is estimat
 
 ## 💻 Open-Source Design Systems & Tooling
 
-*The repositories below are equipped with star badges linked directly to their stargazers page and sorted descending by star count.*
+*The repositories below are equipped with Stars_Badges linked directly to their stargazers page and sorted descending by Stars_Count.*
 
 ### 📦 Enterprise & Production Design Systems
 
-- **[shadcn/ui](https://github.com/shadcn-ui/ui)** [![GitHub stars](https://img.shields.io/github/stars/shadcn-ui/ui?style=social&color=white)](https://github.com/shadcn-ui/ui/stargazers)  
+- **[shadcn/ui](https://github.com/shadcn-ui/ui)** [![GitHub_Stars](https://img.shields.io/github/stars/shadcn-ui/ui?style=social&color=white)](https://github.com/shadcn-ui/ui/stargazers)  
   Beautifully designed, accessible components and design token primitives that you can copy and paste into your apps. Built with Radix UI and Tailwind CSS.
 
-- **[Ant Design](https://github.com/ant-design/ant-design)** [![GitHub stars](https://img.shields.io/github/stars/ant-design/ant-design?style=social&color=white)](https://github.com/ant-design/ant-design/stargazers)  
+- **[Ant Design](https://github.com/ant-design/ant-design)** [![GitHub_Stars](https://img.shields.io/github/stars/ant-design/ant-design?style=social&color=white)](https://github.com/ant-design/ant-design/stargazers)  
   An enterprise-class UI design language and React UI library with a comprehensive design guideline, design token design specification, and global theme customization.
 
-- **[awesome-design-systems](https://github.com/alexpate/awesome-design-systems)** [![GitHub stars](https://img.shields.io/github/stars/alexpate/awesome-design-systems?style=social&color=white)](https://github.com/alexpate/awesome-design-systems/stargazers)  
+- **[awesome-design-systems](https://github.com/alexpate/awesome-design-systems)** [![GitHub_Stars](https://img.shields.io/github/stars/alexpate/awesome-design-systems?style=social&color=white)](https://github.com/alexpate/awesome-design-systems/stargazers)  
   A world-renowned community-curated collection of publicly available design systems, style guides, pattern libraries, and design ops resources.
 
-- **[Microsoft Fluent UI](https://github.com/microsoft/fluentui)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/fluentui?style=social&color=white)](https://github.com/microsoft/fluentui/stargazers)  
+- **[Microsoft Fluent UI](https://github.com/microsoft/fluentui)** [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/fluentui?style=social&color=white)](https://github.com/microsoft/fluentui/stargazers)  
   Microsoft's cross-platform design system and component collection providing seamless brand style cohesion across Windows, Web, iOS, and Android applications.
 
-- **[Adobe React Spectrum](https://github.com/adobe/react-spectrum)** [![GitHub stars](https://img.shields.io/github/stars/adobe/react-spectrum?style=social&color=white)](https://github.com/adobe/react-spectrum/stargazers)  
+- **[Adobe React Spectrum](https://github.com/adobe/react-spectrum)** [![GitHub_Stars](https://img.shields.io/github/stars/adobe/react-spectrum?style=social&color=white)](https://github.com/adobe/react-spectrum/stargazers)  
   Adobe's collection of libraries and tools providing the foundation for Adobe's design system, including accessible UI components, ARIA hooks, and adaptive styling.
 
-- **[IBM Carbon Design System](https://github.com/carbon-design-system/carbon)** [![GitHub stars](https://img.shields.io/github/stars/carbon-design-system/carbon?style=social&color=white)](https://github.com/carbon-design-system/carbon/stargazers)  
+- **[IBM Carbon Design System](https://github.com/carbon-design-system/carbon)** [![GitHub_Stars](https://img.shields.io/github/stars/carbon-design-system/carbon?style=social&color=white)](https://github.com/carbon-design-system/carbon/stargazers)  
   IBM’s open-source design system for products and digital experiences, featuring IBM Design Language guidelines, web components, and token variables.
 
-- **[GitHub Primer React](https://github.com/primer/react)** [![GitHub stars](https://img.shields.io/github/stars/primer/react?style=social&color=white)](https://github.com/primer/react/stargazers)  
+- **[GitHub Primer React](https://github.com/primer/react)** [![GitHub_Stars](https://img.shields.io/github/stars/primer/react?style=social&color=white)](https://github.com/primer/react/stargazers)  
   React implementation of GitHub's Primer Design System, powering GitHub.com's user interface with comprehensive token foundations and accessibility primitives.
 
-- **[Salesforce Lightning Design System](https://github.com/salesforce-ux/design-system)** [![GitHub stars](https://img.shields.io/github/stars/salesforce-ux/design-system?style=social&color=white)](https://github.com/salesforce-ux/design-system/stargazers)  
+- **[Salesforce Lightning Design System](https://github.com/salesforce-ux/design-system)** [![GitHub_Stars](https://img.shields.io/github/stars/salesforce-ux/design-system?style=social&color=white)](https://github.com/salesforce-ux/design-system/stargazers)  
   The world-class design system framework and design tokens used by Salesforce to build unified enterprise user interfaces.
 
-- **[Storybook Design System](https://github.com/storybookjs/design-system)** [![GitHub stars](https://img.shields.io/github/stars/storybookjs/design-system?style=social&color=white)](https://github.com/storybookjs/design-system/stargazers)  
+- **[Storybook Design System](https://github.com/storybookjs/design-system)** [![GitHub_Stars](https://img.shields.io/github/stars/storybookjs/design-system?style=social&color=white)](https://github.com/storybookjs/design-system/stargazers)  
   Production design system codifying Storybook's UI components into a central repository; built with React, Storybook, and Emotion, and distributed via npm.
 
-- **[Appian Aurora Design System](https://github.com/appian-design/aurora)** [![GitHub stars](https://img.shields.io/github/stars/appian-design/aurora?style=social&color=white)](https://github.com/appian-design/aurora/stargazers)  
+- **[Appian Aurora Design System](https://github.com/appian-design/aurora)** [![GitHub_Stars](https://img.shields.io/github/stars/appian-design/aurora?style=social&color=white)](https://github.com/appian-design/aurora/stargazers)  
   Centralized design system documentation platform built with MkDocs, exposing design patterns, accessibility rules, and brand guidelines directly via MCP servers.
 
 ### 💎 Design Token Tooling & Specifications
 
-- **[Style Dictionary](https://github.com/amzn/style-dictionary)** [![GitHub stars](https://img.shields.io/github/stars/amzn/style-dictionary?style=social&color=white)](https://github.com/amzn/style-dictionary/stargazers)  
+- **[Style Dictionary](https://github.com/amzn/style-dictionary)** [![GitHub_Stars](https://img.shields.io/github/stars/amzn/style-dictionary?style=social&color=white)](https://github.com/amzn/style-dictionary/stargazers)  
   Amazon's open-source build system for design tokens. Transforms unified token files (JSON/YAML) into cross-platform variables for CSS, SCSS, JavaScript, iOS (Swift), and Android.
 
-- **[Tokens Studio for Figma](https://github.com/tokens-studio/figma-plugin)** [![GitHub stars](https://img.shields.io/github/stars/tokens-studio/figma-plugin?style=social&color=white)](https://github.com/tokens-studio/figma-plugin/stargazers)  
+- **[Tokens Studio for Figma](https://github.com/tokens-studio/figma-plugin)** [![GitHub_Stars](https://img.shields.io/github/stars/tokens-studio/figma-plugin?style=social&color=white)](https://github.com/tokens-studio/figma-plugin/stargazers)  
   The leading Figma plugin and engine to define, manipulate, and sync design tokens with GitHub repositories using the standardized DTCG format.
 
 - **[W3C Design Tokens Community Group (DTCG)](https://tr.designtokens.org/format/)**  
   The official vendor-neutral specification establishing a standardized data structure for design tokens across design software (Figma, Sketch) and code build tools.
 
-- **[forge-brand](https://github.com/nino-chavez/forge-brand)** [![GitHub stars](https://img.shields.io/github/stars/nino-chavez/forge-brand?style=social&color=white)](https://github.com/nino-chavez/forge-brand/stargazers)  
+- **[forge-brand](https://github.com/nino-chavez/forge-brand)** [![GitHub_Stars](https://img.shields.io/github/stars/nino-chavez/forge-brand?style=social&color=white)](https://github.com/nino-chavez/forge-brand/stargazers)  
   CLI-first agency toolkit for generating brand kits, style guides, and media assets using JSON presets with Satori/Resvg SVG rendering.
 
 ### 📝 Brand Guidelines Templates & Playgrounds
 
-- **[design-system-playground](https://github.com/motaterry/design-system-playground)** [![GitHub stars](https://img.shields.io/github/stars/motaterry/design-system-playground?style=social&color=white)](https://github.com/motaterry/design-system-playground/stargazers)  
+- **[design-system-playground](https://github.com/motaterry/design-system-playground)** [![GitHub_Stars](https://img.shields.io/github/stars/motaterry/design-system-playground?style=social&color=white)](https://github.com/motaterry/design-system-playground/stargazers)  
   Reference implementation demonstrating design system documentation structure with design tokens, guidelines, and consistency audit scoring.
 
 - **[Brand Guidelines Markdown Template](https://github.com/aiskillstore/marketplace)**  
